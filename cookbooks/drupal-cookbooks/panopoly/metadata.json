@@ -1,0 +1,39 @@
+{
+  "recipes": {
+    "panopoly": "Installs panopoly head"
+  },
+  "attributes": {
+  },
+  "providing": {
+  },
+  "dependencies": {
+  },
+  "maintainer": "Alec Reynolds",
+  "replacing": {
+  },
+  "maintainer_email": "alec@eastbaywebshop.com",
+  "groupings": {
+  },
+  "platforms": {
+    "debian": [
+
+    ],
+    "arch": [
+
+    ],
+    "ubuntu": [
+
+    ]
+  },
+  "license": "Apache 2.0",
+  "version": "0.9.0",
+  "recommendations": {
+  },
+  "suggestions": {
+  },
+  "name": "panopoly",
+  "long_description": "",
+  "description": "Installs panopoly head",
+  "conflicting": {
+  }
+}
